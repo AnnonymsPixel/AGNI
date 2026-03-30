@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'AGNI Motors — Axial Flux Brushed and Brushless Motors',
-  description: 'Shaping the Future of Electric Powertrains. World record-holding axial flux motor technology.',
+  description: 'AGNI Motors website',
 }
 
 export default function RootLayout({
